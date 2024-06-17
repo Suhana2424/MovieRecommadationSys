@@ -1,6 +1,8 @@
 
 # Movie Lens
 
+<img width="623" alt="Screenshot 2024-06-17 at 9 49 22 AM" src="https://github.com/Suhana2424/MovieRecommadationSys/assets/165405660/a0e95075-59b7-442f-889e-e2266ee9278b">
+
 Recommendation system is an algorithmic tool that uses predictive modelling to suggest relevant items to user based on their past behavior and preferences. These systems improve customer experience, drive user engagement, and maximize revenue opportunities by personalizing the offerings. Used extensively in e-commerece, streaming services, and other digital platforms, recommendation systems form a crucial part of data-driven business strategies.
 
 - Collaborative 
