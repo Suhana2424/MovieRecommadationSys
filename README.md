@@ -29,6 +29,8 @@ The process of Item-Item similarity can be summarized as follows:
 
 # Calculation 
 
+<img width="1109" alt="Screenshot 2024-06-17 at 11 02 13 AM" src="https://github.com/Suhana2424/MovieRecommadationSys/assets/165405660/76c052d7-21e2-4ee2-9f97-522accf6eeb9">
+
 
 # User-Item Similarity
 
