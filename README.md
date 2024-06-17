@@ -13,6 +13,9 @@ Recommendation system is an algorithmic tool that uses predictive modelling to s
 
 The Collaborative filtering Algorithm calculates item-item similarity scores based on user-item interaction data. It measures the similarity between items by analyzing the patterns of user interactions. The algorithm then generates recommendation by selecting items that are similar to the ones a user has already interacted with. 
 
+<img width="505" alt="Screenshot 2024-06-17 at 11 01 12 AM" src="https://github.com/Suhana2424/MovieRecommadationSys/assets/165405660/60bf421e-fae1-46f2-bfee-db0aa5b888bb">
+
+
 # Item-Item Similarity
 
 Item-Item similarity, also known as Item-Based Collaborative Filtering, is a popular technique used in recommendation systems. It focuses on finding similarities between items based on user interactions and preferences. The primary idea is to recommend items to a user that are similar to the ones they have shown interest in or interacted with before.
